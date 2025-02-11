@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="AS-TIC 13" />
+              <option name="title_text" value="AS-TIC (Articulate Storyline with Static Fluid)" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1201,7 +1201,7 @@
           <links>
             <slidelink slideid="_player.6ZOO2oQ3XZG.5bdLZCjsXj8" displaytext="Menu materi" expand="false" type="slide" />
             <slidelink slideid="_player.6ZOO2oQ3XZG.5dBGHN5TIcH" displaytext="Sebuah balok tenggelam pada kedalaman 3 m, massa jenis air 1000 kg/m³, konstanta gravitasi pada tempat tersebut adalah 10 m/s². Berapa besar tekanan hidrostatis yang dialami penyelam tersebut ?" expand="false" type="slide" />
-            <slidelink slideid="_player.6ZOO2oQ3XZG.6A2LMdl98yz" displaytext="Jika diketahui tekanan udara 1 × 10⁵ N/m²  dan g=10 m/s². Tentukan tekanan total di bawah permukaan danau pada kedalaman 30 cm!" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZOO2oQ3XZG.6A2LMdl98yz" displaytext="Jika diketahui tekanan udara 1 × 10⁵ N/m²  dan g=10 m/s². Tentukan tekanan total di bawah permukaan danau pada kedalaman 30 cm! (ρf = 1000 kg/m³)" expand="false" type="slide" />
             <slidelink slideid="_player.6ZOO2oQ3XZG.5n66hBKClw9" displaytext="Sebuah kursi berbentuk balok memiliki berat 500 N dan luas alas 0,25 m². Hitung tekanan yang diberikan balok tersebut pada permukaan!" expand="false" type="slide" />
             <slidelink slideid="_player.6ZOO2oQ3XZG.6qOOlWMmOhW" displaytext="Sebuah bejana berhungan diisi dengan air. Salah satu lengan bejana memiliki luas A1=20 cm², sedangkan lengan yang lainnya memiliki luas penampang A2=10 cm². Jika tinggi air di kedua lengan sama, berapakah perbandingan gaya yang bekerja pada dasar kedua lengan bejana? " expand="false" type="slide" />
             <slidelink slideid="_player.6ZOO2oQ3XZG.6nlE8g6baCw" displaytext="Diketahui sebuah benda memiliki volume 0,5 m³ tercelup seluruhnya ke dalam zat cair dan massa jenisnya 1500 kg/m³. Jika g=10 m/s² maka benda akan mengalami gaya ke atas sebesar?" expand="false" type="slide" />
